@@ -7,7 +7,7 @@ AI Retro Console turns old notebooks into distraction-free AI terminal, deliveri
 https://www.hackster.io/roni-bandini/ai-retro-console-with-n8n-llm-and-linux-a71b98
 
 # N8N Template
-https://creators.n8n.io/workflows/6240
+[https://creators.n8n.io/workflows/6240](https://n8n.io/workflows/6240-multi-service-terminal-access-gmail-x-telegram-and-news-with-gemini-ai/)
 
 # N8n Hosting
 https://railway.com/?referralCode=yLvEKb
